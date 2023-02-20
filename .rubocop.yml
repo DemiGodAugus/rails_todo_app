@@ -1,0 +1,11 @@
+require: rubocop-rails
+
+AllCops:
+  Exclude:
+    - 'config/*.rb'
+    - 'config/**/*.rb'
+    - 'bin/*'
+
+Style/Documentation:
+  Enabled: false
+
