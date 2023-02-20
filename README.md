@@ -24,11 +24,11 @@ This is a simple ToDo app built with Ruby on Rails 7.
 - Edit a task by clicking on the task and then clicking on the "Edit" button.
 - Mark a task as completed by clicking on the checkbox next to the task.
 - Delete a task by clicking on the task and then clicking on the "Delete" button.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/DemiGodAugus/todo-app. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
-
-## License
-
-Currently N/A
+<!---->
+<!-- ## Contributing -->
+<!---->
+<!-- Bug reports and pull requests are welcome on GitHub at https://github.com/DemiGodAugus/todo-app. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct. -->
+<!---->
+<!-- ## License -->
+<!---->
+<!-- Currently N/A -->
