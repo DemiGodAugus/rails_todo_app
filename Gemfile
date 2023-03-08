@@ -84,3 +84,5 @@ end
 
 gem 'devise'
 gem 'rubocop', require: false
+
+gem "tailwindcss-rails", "~> 2.0"
