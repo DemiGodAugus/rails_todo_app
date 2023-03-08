@@ -1,0 +1,23 @@
+{
+  "name": "rails_todo_app",
+  "version": "1.0.0",
+  "description": "This is a simple ToDo app built with Ruby on Rails 7.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemiGodAugus/rails_todo_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemiGodAugus/rails_todo_app/issues"
+  },
+  "homepage": "https://github.com/DemiGodAugus/rails_todo_app#readme"
+}
